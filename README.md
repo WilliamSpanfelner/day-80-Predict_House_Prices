@@ -1,4 +1,4 @@
-![Screenshot](6_pair_plot.jpg)
+![Screenshot](day-80-Predict_House_Prices.png)
 
 # Create a model to value properties in 1970's Boston, Massachusetts, using Multivariable Regression and 
 - 👋 Hi, I’m @WilliamSpanfelner
